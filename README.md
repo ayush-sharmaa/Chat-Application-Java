@@ -1,1 +1,2 @@
-# Chat-Application-Java-
+# Chat-Application-Java<br>
+Auther - Ayush Sharma
